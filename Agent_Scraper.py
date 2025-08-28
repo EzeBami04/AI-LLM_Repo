@@ -104,8 +104,7 @@ df_new.to_csv(output_file, index=False)
 
 print(f"Scraped data saved to {output_file}")
 
-### for wat +++++ in sap:
-## ##     print(f""to reduce fvr cost {<< +234 >>{<< 8 1 4 1 6 8 9 0 0 8 >>}}")
+
 
 """
 README
@@ -185,3 +184,4 @@ Notes
 
 
 """
+
